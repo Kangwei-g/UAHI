@@ -1,9 +1,9 @@
 # UAHI
 Detecting Fake News on Social Media: A Novel Uncertainty Aware Machine-Crowd Hybrid Intelligence Based Method
 
-You can find RAHI(Uniform).py in /bert/bert_model_output_is_uniform
+You can find UAHI(Uniform).py in /bert/bert_model_output_is_uniform
 
-and RAHI(Gaussian).py in /encoder_train_all_model231121/baseline/model
+and UAHI(Gaussian).py in /encoder_train_all_model231121/baseline/model
 
 Weibo V2's corresponding code is concluded in the WeiboV2 folder.
 # Dataset Used
