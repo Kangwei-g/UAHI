@@ -1,5 +1,5 @@
-# RAHI
-Detecting Fake News on Social Media: A Novel Reliability Aware Machine-Crowd Hybrid Intelligence Based Method
+# UAHI
+Detecting Fake News on Social Media: A Novel Uncertainty Aware Machine-Crowd Hybrid Intelligence Based Method
 
 You can find RAHI(Uniform).py in /bert/bert_model_output_is_uniform
 
